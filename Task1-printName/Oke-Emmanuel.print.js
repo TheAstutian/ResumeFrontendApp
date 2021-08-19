@@ -1,7 +1,8 @@
-const name = "Oke Emmanuel"
+const username = "Oke Emmanuel"
 
 const printName = (name)=>{
     return "Name's" + name
 }
 
-printName(name)
+
+printName(username)
