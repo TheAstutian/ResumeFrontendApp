@@ -10,9 +10,9 @@ const About =()=>{
                         <br className="hidden lg:inline-block" />I love building dynamic web apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                            I started out as a freelance writer decades ago but have since morphed into a front-end web developer.
-                            I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use.
-                            I'm quietly confident, naturally curious, and perpetually improving my chops.
+                            I started out as a freelance writer decades ago but have since morphed into a web developer.
+                            
+                            
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -23,7 +23,7 @@ const About =()=>{
                         <a
                         href="#projects"
                         className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                        See My Past Work
+                        My Projects
                         </a>
                     </div>
                     </div>

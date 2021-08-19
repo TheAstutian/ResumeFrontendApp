@@ -11,6 +11,9 @@ function App() {
     <main class='text-gray-400 bg-gray-900 body-font'>
       <Navbar />
      <About />
+     <Projects/>
+     <Skills />
+     <Footer />
     </main>
   );
 }
