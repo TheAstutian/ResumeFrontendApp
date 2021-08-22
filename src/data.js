@@ -34,5 +34,5 @@ export const projects = [
   ];
 
   export const skills = [
-    "Python", "Javascript", "Django", "React",   "Tailwind CSS", "Bootstrap"
+    "Copywriting", "Python", "Javascript", "Django", "React", "Tailwind CSS", "Bootstrap", "Cryptocurrency", "Blockchain Analysis"
   ]
